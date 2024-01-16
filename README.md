@@ -1,4 +1,4 @@
-# Power-BI-Dashboard-Project
+# Power-BI-Dashboard-Project.
 This is a Power BI end-to-end project
 
 In this project, I have created an interactive dashboard to track and analyze online sales data.
